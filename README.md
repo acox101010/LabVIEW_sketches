@@ -7,3 +7,4 @@ the code to capture temperature and humidty readings from a DHT11 sensor. <br/>
 **button_tester**: This file was used to capture the number of cycles a NC SPST button switch was actuated during a reliability test.<br/>
 It works by detecting the falling edge of a small voltage (2V) dropping from 5V as the actuator depresses the switch and opens it.<br/>
 **straingauge_04-03-18**: This was created to measure the various voltage levels of a rosette straingauge along with a NI9219 <br/> 
+**Shock_Capture_Rev.B***: Updated script for capturing accelerometer readings during vibration or shock testing.<br/>
